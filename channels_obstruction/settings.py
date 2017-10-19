@@ -137,7 +137,7 @@ LOGIN_URL = '/login/'
 
 WEBPACK_LOADER = {
     'DEFAULT': {
-        'BUNDLE_DIR_NAME': '/static/bundles/',  # end with slash
+        'BUNDLE_DIR_NAME': '/bundles/',  # end with slash
         'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats.json')
 
     }
