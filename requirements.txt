@@ -14,3 +14,4 @@ six==1.11.0
 Twisted==17.9.0
 txaio==2.8.2
 zope.interface==4.4.3
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
