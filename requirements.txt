@@ -13,4 +13,4 @@ incremental==17.5.0
 six==1.11.0
 Twisted==17.9.0
 txaio==2.8.2
-zope.interface==4.4.3
+zope.interface==6.0
