@@ -9,7 +9,7 @@ Django==1.11.6
 django-webpack-loader==0.5.0
 djangorestframework==3.7.1
 hyperlink==17.3.1
-incremental==17.5.0
+incremental==24.7.1
 six==1.11.0
 Twisted==17.9.0
 txaio==2.8.2
